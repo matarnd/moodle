@@ -2,4 +2,4 @@
 deployment:
  tasks:
  - export DEPLOYPATH=/home/fwnf4103/Testenv/
- - /bin/cp * $DEPLOYPATH
+ - /bin/cp -r * $DEPLOYPATH 
